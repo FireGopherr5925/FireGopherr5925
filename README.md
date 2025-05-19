@@ -1,5 +1,6 @@
-## Hii
-CompCsi <br />
+## Compsci
+Advanced Python <br />
+Learning SQL/PHP <br />
 <!--
 **FireGopherr5925/FireGopherr5925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
