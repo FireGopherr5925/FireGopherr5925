@@ -1,7 +1,5 @@
 ## Hii
-I'm a student from Chile, currently in first year of computer science. <br />
-Learning Python. <br />
-Also learning how to use this, I still don't understand it so idk what I'm doing lol.<br />
+CompCsi <br />
 <!--
 **FireGopherr5925/FireGopherr5925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
